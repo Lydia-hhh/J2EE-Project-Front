@@ -1,5 +1,7 @@
 # finalproject
 
+It is a Logistics Management System. It contains three actors, including customer, administrator and courier.
+
 ## Project setup
 ```
 npm install
@@ -17,3 +19,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
